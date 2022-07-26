@@ -1,0 +1,3 @@
+this is file C.
+
+Originally created in a new branch
